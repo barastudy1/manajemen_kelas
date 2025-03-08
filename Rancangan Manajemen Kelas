@@ -1,0 +1,34 @@
+ANALISIS DAN PERANCANGAN SISTEM MANAJEMEN KELAS
+
+Hak Akses Pengguna:
+Admin
+	Mengelola pengguna dan hak akses.
+	Mengatur struktur kelas.
+	Melihat dan mengelola seluruh data sistem.
+Ketua Kelas
+	Mengelola informasi kegiatan kelas.
+	Mengajukan pengeluaran dan pemasukan kelas.
+	Berkoordinasi dengan wali kelas dan bendahara.
+Bendahara
+	Mengelola keuangan kelas (pemasukan dan pengeluaran).
+	Mencatat laporan keuangan kelas.
+	Mengajukan persetujuan anggaran kepada wali kelas.
+Siswa
+	Melihat jadwal mata pelajaran.
+	Mengakses informasi nilai dan tugas.
+	Melihat informasi keuangan kelas.
+Orang Tua/Wali
+	Melihat progress belajar siswa.
+	Melihat laporan keuangan kelas.
+	Mengakses jadwal dan informasi nilai anak.
+Wali Kelas
+	Mengawasi manajemen kelas secara umum.
+	Menyetujui pengeluaran kelas.
+	Mengelola informasi kehadiran dan penilaian siswa.
+Guru Mapel
+	Mengelola jadwal dan materi pelajaran.
+	Menginput nilai siswa.
+	Memberikan laporan perkembangan siswa.
+ 
+CLASS DIAGRAM 
+ 
